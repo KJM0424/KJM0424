@@ -128,8 +128,4 @@ Python과 FastAPI로 AI 분석 서버를 만들고 Spring Boot 업무 서버와 
 - 코드를 빨리 만드는 일은 AI 도구에 맡기고, 무엇이 맞는 결과인지는 직접 정하고 확인합니다.
 - 수치에는 측정 조건을 붙입니다.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJM0424&layout=compact&hide=html,css,jupyter%20notebook&langs_count=6&theme=default&hide_border=true&title_color=176B5B&text_color=333333" alt="Top languages" height="150">
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8F7A,100:176B5B&height=90&section=footer" width="100%" alt="">
